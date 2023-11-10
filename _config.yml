@@ -1,8 +1,8 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
+title: Noobcoder
+description: This is my blogging site
+taglong: Code.Build.Everyday
 tagshort: Jekyll theme
 url: noobcoder-10.github.io
 baseurl: ""
