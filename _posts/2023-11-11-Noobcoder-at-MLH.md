@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Noobcoder
-lead: Built for MHL - LOVE GHW
+title: MLH / GHW
+lead: Built for MLH - LOVE GHW
 ---
 
 # Embracing the Hacktastic Journey: MLH Global Hack Week Career Extravaganza
